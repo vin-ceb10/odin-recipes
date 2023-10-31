@@ -1,4 +1,4 @@
 # odin-recipes
 The Odin Project - Recipes
 
-This is a project to test basic HTML skills. Being a filipino I've decided to include some recipes of my favorite dishes.
+This is a project to test basic HTML skills. This site displays my top 10 favorite dishes.
